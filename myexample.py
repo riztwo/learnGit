@@ -1,2 +1,2 @@
 print('hello world!')
-my_list['hello','canada']
+my_list = ['hello','canada']
